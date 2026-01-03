@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Rahuld2105/Leetcode/tree/master/0012-integer-to-roman) |
+| [2190-most-frequent-number-following-key-in-an-array](https://github.com/Rahuld2105/Leetcode/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 ## Math
 |  |
 | ------- |
@@ -17,4 +18,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0896-monotonic-array](https://github.com/Rahuld2105/Leetcode/tree/master/0896-monotonic-array) |
+| [2190-most-frequent-number-following-key-in-an-array](https://github.com/Rahuld2105/Leetcode/tree/master/2190-most-frequent-number-following-key-in-an-array) |
+## Counting
+|  |
+| ------- |
+| [2190-most-frequent-number-following-key-in-an-array](https://github.com/Rahuld2105/Leetcode/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 <!---LeetCode Topics End-->
