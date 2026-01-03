@@ -13,4 +13,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Rahuld2105/Leetcode/tree/master/0012-integer-to-roman) |
+## Array
+|  |
+| ------- |
+| [0896-monotonic-array](https://github.com/Rahuld2105/Leetcode/tree/master/0896-monotonic-array) |
 <!---LeetCode Topics End-->
