@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/Rahuld2105/Leetcode/tree/master/0012-integer-to-roman) |
 | [0141-linked-list-cycle](https://github.com/Rahuld2105/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Rahuld2105/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/Rahuld2105/Leetcode/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 ## Math
 |  |
@@ -28,8 +29,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Rahuld2105/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Rahuld2105/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 ## Two Pointers
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Rahuld2105/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Rahuld2105/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
