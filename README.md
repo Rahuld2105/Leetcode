@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Rahuld2105/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0622-design-circular-queue](https://github.com/Rahuld2105/Leetcode/tree/master/0622-design-circular-queue) |
 | [0896-monotonic-array](https://github.com/Rahuld2105/Leetcode/tree/master/0896-monotonic-array) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/Rahuld2105/Leetcode/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 ## Counting
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Rahuld2105/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/Rahuld2105/Leetcode/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/Rahuld2105/Leetcode/tree/master/0148-sort-list) |
+| [0622-design-circular-queue](https://github.com/Rahuld2105/Leetcode/tree/master/0622-design-circular-queue) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Rahuld2105/Leetcode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Two Pointers
 |  |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0622-design-circular-queue](https://github.com/Rahuld2105/Leetcode/tree/master/0622-design-circular-queue) |
 | [0901-online-stock-span](https://github.com/Rahuld2105/Leetcode/tree/master/0901-online-stock-span) |
 ## Monotonic Stack
 |  |
@@ -81,4 +84,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/Rahuld2105/Leetcode/tree/master/0901-online-stock-span) |
+## Queue
+|  |
+| ------- |
+| [0622-design-circular-queue](https://github.com/Rahuld2105/Leetcode/tree/master/0622-design-circular-queue) |
 <!---LeetCode Topics End-->
