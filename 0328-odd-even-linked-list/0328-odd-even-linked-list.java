@@ -9,17 +9,15 @@ class Solution {
         int index = 1;
 
         while (curr != null) {
-            ListNode next = curr.next; // save next
-            curr.next = null;          // detach current
 
-            if (index % 2 == 1) {      // ODD position
+            if (index % 2 == 1) {   // ODD position
                 if (oddHead == null) {
                     oddHead = oddTail = curr;
                 } else {
                     oddTail.next = curr;
                     oddTail = curr;
                 }
-            } else {                   // EVEN position
+            } else {                // EVEN position
                 if (evenHead == null) {
                     evenHead = evenTail = curr;
                 } else {
@@ -28,12 +26,17 @@ class Solution {
                 }
             }
 
+            curr = curr.next;  // ✅ now this is SAFE
             index++;
-            curr = next;
         }
 
+        // join odd + even
         if (oddHead == null) return evenHead;
+
         oddTail.next = evenHead;
+
+        if (evenTail != null)
+            evenTail.next = null;  // 🔑 IMPORTANT: terminate list
 
         return oddHead;
     }
