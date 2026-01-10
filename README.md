@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Rahuld2105/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0622-design-circular-queue](https://github.com/Rahuld2105/Leetcode/tree/master/0622-design-circular-queue) |
+| [0646-maximum-length-of-pair-chain](https://github.com/Rahuld2105/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0896-monotonic-array](https://github.com/Rahuld2105/Leetcode/tree/master/0896-monotonic-array) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/Rahuld2105/Leetcode/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 ## Counting
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Rahuld2105/Leetcode/tree/master/0148-sort-list) |
+| [0646-maximum-length-of-pair-chain](https://github.com/Rahuld2105/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 ## Merge Sort
 |  |
 | ------- |
@@ -91,4 +93,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0622-design-circular-queue](https://github.com/Rahuld2105/Leetcode/tree/master/0622-design-circular-queue) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0646-maximum-length-of-pair-chain](https://github.com/Rahuld2105/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
+## Greedy
+|  |
+| ------- |
+| [0646-maximum-length-of-pair-chain](https://github.com/Rahuld2105/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 <!---LeetCode Topics End-->
