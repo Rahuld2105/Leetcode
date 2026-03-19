@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Rahuld2105/Leetcode/tree/master/0012-integer-to-roman) |
 | [0141-linked-list-cycle](https://github.com/Rahuld2105/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Rahuld2105/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/Rahuld2105/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/Rahuld2105/Leetcode/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 ## Math
 |  |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Rahuld2105/Leetcode/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/Rahuld2105/Leetcode/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/Rahuld2105/Leetcode/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/Rahuld2105/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## Array
 |  |
 | ------- |
@@ -29,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Rahuld2105/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/Rahuld2105/Leetcode/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 ## Linked List
 |  |
@@ -92,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Rahuld2105/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0622-design-circular-queue](https://github.com/Rahuld2105/Leetcode/tree/master/0622-design-circular-queue) |
 ## Dynamic Programming
 |  |
